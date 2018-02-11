@@ -1,2 +1,4 @@
 # Health-Analytics
 Tool: Weka and MySQL Server
+Analyzing the health data in the health information system and using this to develop a model for the use of healthcare system.This involved the data collection from different sources and then I had the find the target data and then performed data mining process on the target data. I analysed the results and categorized the data accordingly. It involved Clustering of data, Classification of data and also I performed association rule mining on the data for symptoms and diseases and found the rules that is very important in the health care system. 
+I built a data model based on the data that I collected from real world and performed many SQL queries to get statistical information and also performed data mining to get anaytical information and built the predictor model based on the data collected.
